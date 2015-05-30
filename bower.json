@@ -1,0 +1,7 @@
+{
+  "name": "angular-split-pane-ui-route-example",
+  "dependencies": {
+    "angular-split-pane": "~1.0.1",
+    "angular-ui-router": "~0.2.0"
+  }
+}
